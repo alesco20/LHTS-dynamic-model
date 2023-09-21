@@ -18,7 +18,7 @@ The outputs of the model are:
 
 ## Using the model
 [...]
-
+Run 'main.py'
 
 ## Model description
 A thorough description of the model is contained in Chapter 4 of the following PhD thesis: "Thermal Energy Storage Technologies - Fast modelling, realisation and experimental characterisation of innovative latent heat storage units for system integration".
