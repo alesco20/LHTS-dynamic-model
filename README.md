@@ -3,8 +3,7 @@ This is a python model for simulating the discharging process of a shell-and-tub
 
 This modelling approach was initially developed studying the dynamic behaviour of a 40-kWh shell-and-tube LHTS unit from a system perspective. This storage unit is made of 96 copper pipes with longitudinal fins immersed in a medium-temperature phase change material (PCM). The heat transfer fluid (HTF) of a typical hydronic heating system flows inside the pipes. The model was also validated against experimental data of this storage unit.
 
-**_In few words_**
-
+### In few words
 The model needs only a-priori known geometrical and thermo-physical features of the shell-and-tube LHTS unit that the modeller intends to study.
 
 The inputs of the model are:
@@ -16,8 +15,10 @@ The outputs of the model are:
 2. the thermal power released by the LHTS at each time step
 3. the LHTS state of charge (SOC) at each time step
 
+
 ## Using the model
 [...]
+
 
 ## Model description
 A thorough description of the model is contained in Chapter 4 of the following PhD thesis: "Thermal Energy Storage Technologies - Fast modelling, realisation and experimental characterisation of innovative latent heat storage units for system integration".
