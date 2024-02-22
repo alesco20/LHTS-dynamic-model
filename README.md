@@ -1,5 +1,5 @@
 # Fast dynamic model for Latent Heat Thermal Storage (LHTS) units
-This is a python model for simulating the discharging process of a shell-and-tube LHTS tank. This code was developed by Alessandro Colangelo for his PhD thesis at Politecnico di Torino (Italy).
+This is a python model for simulating the discharging process of a shell-and-tube LHTS tank. This code was developed by Alessandro Colangelo for his PhD thesis at Politecnico di Torino (Italy). The thesis is available at the following link: https://hdl.handle.net/11583/2983204
 
 This modelling approach was initially developed studying the dynamic behaviour of a 40-kWh shell-and-tube LHTS unit from a system perspective. This storage unit is made of 96 copper pipes with longitudinal fins immersed in a medium-temperature phase change material (PCM). The heat transfer fluid (HTF) of a typical hydronic heating system flows inside the pipes. The model was also validated against experimental data of this storage unit.
 
