@@ -17,7 +17,6 @@ The outputs of the model are:
 
 
 ## Using the model
-[...]
 Run `main.py` 
 
 ## Model description
